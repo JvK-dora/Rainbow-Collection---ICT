@@ -1,0 +1,67 @@
+.head1{
+    background-color: rgb(182, 109, 20);
+    background-image: url(Images/pg1.jpg);
+    box-shadow: 1px 1px 2px #53544d;
+}
+.head1 h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    text-shadow: 5px 5px 5ch #000;    
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.header h1{
+    font-size: 50px;
+    color: #253439;
+    text-shadow: 1px 1px 1px black, 0 0 25px #7C898B, 0 0 5px rgb(147, 147, 180);
+  }
+  .topnav{
+    overflow: hidden;
+    background-color: rgb(187, 182, 176);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .topnav a{
+    float: left;
+    display: block;
+    color: #F8F7F4;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .topnav a:hover{
+    background-color: rgb(255, 255, 255);
+    color: #253439;
+  }
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+  }
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+  }
+  .card{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #fceaf2  ;
+    padding:20px;
+    margin-top: 20px;
+    box-shadow: 2px 20x #ddd;
+    border-radius: 10px;
+  }
+  .big-footer {
+    background-color: #e1c7c7;
+    color: #fff;
+    padding: 10px;
+  font-weight: bold;
+  border-right: 2px solid #6e4f4f
+}
+.odn{
+  margin-top: 2%;
+  margin-left: 35%;
+}
+.btn{
+  align-content: center;
+}
